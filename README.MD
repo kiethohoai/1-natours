@@ -3,5 +3,4 @@
 #5 Creating Cool CSS Animations
 #6 Building a Complex Animated Button - Part 1
 #7 Building a Complex Animated Button - Part 2
-
-HOW CSS WORKS A LOOK BEHIND THE SCENES
+#8 Converting px to rem An Effective Workflow
