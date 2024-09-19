@@ -18,3 +18,8 @@
 006 NPM Packages Let_s Install Sass Locally
 007 NPM Scripts Let_s Write and Compile Sass Locally
 008 The Easiest Way of Automatically Reloading a Page on File Changes
+
+### 05 Natours Project Using Advanced CSS and Sass P2
+
+001 Section Intro
+002 Converting Our CSS Code to Sass Variables and Nesting
