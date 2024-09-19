@@ -4,3 +4,4 @@
 #6 Building a Complex Animated Button - Part 1
 #7 Building a Complex Animated Button - Part 2
 #8 Converting px to rem An Effective Workflow
+#9 How CSS Renders
