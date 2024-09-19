@@ -15,3 +15,4 @@
 003 First Steps with Sass Variables and Nesting
 004 First Steps with Sass Mixins, Extends and Functions
 005 A Brief Introduction to the Command Line
+006 NPM Packages Let_s Install Sass Locally

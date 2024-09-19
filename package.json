@@ -1,0 +1,14 @@
+{
+  "name": "natour-pro",
+  "version": "1.0.0",
+  "description": "011 Implementing BEM in the Natours Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "john",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.79.1"
+  }
+}
