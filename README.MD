@@ -7,3 +7,9 @@
 #9 How CSS Renders
 #10 CSS Architecture, Components and BEM
 011 Implementing BEM in the Natours Project
+
+### 04 - Introduction to Sass and NPM
+
+001 Section Intro
+002 What is Sass
+003 First Steps with Sass Variables and Nesting
