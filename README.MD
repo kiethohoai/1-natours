@@ -13,3 +13,4 @@
 001 Section Intro
 002 What is Sass
 003 First Steps with Sass Variables and Nesting
+004 First Steps with Sass Mixins, Extends and Functions
