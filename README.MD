@@ -16,3 +16,4 @@
 004 First Steps with Sass Mixins, Extends and Functions
 005 A Brief Introduction to the Command Line
 006 NPM Packages Let_s Install Sass Locally
+007 NPM Scripts Let_s Write and Compile Sass Locally
