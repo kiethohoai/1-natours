@@ -17,3 +17,4 @@
 005 A Brief Introduction to the Command Line
 006 NPM Packages Let_s Install Sass Locally
 007 NPM Scripts Let_s Write and Compile Sass Locally
+008 The Easiest Way of Automatically Reloading a Page on File Changes
