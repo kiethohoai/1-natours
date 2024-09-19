@@ -25,4 +25,4 @@
 002 Converting Our CSS Code to Sass Variables and Nesting
 003-implementing-the-7-1-css-architecture-with-sass
 004 Review Responsive Design Principles and Layout Types
-005 Building a Custom Grid with Floats
+005 Building a Custom Grid with Floats - Fix Error Commit Name
