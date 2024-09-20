@@ -28,3 +28,4 @@
 005 Building a Custom Grid with Floats - Fix Error Commit Name
 006 Building the About Section - Part 1
 007 Building the About Section - Part 2
+008 Building the About Section - Part 3
