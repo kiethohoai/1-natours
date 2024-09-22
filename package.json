@@ -4,11 +4,13 @@
   "description": "011 Implementing BEM in the Natours Project",
   "main": "index.js",
   "scripts": {
-    "sass": "sass --watch sass:css"
+    "sass": "sass --watch sass:css",
+    "sv": "lite-server"
   },
   "author": "john",
   "license": "ISC",
   "dependencies": {
+    "lite-server": "^2.6.1",
     "sass": "^1.79.1"
   }
 }

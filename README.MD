@@ -32,3 +32,4 @@
 009 Building the Features Section
 009 Building the Features Section Prac-3
 010 Building the Tours Section - Part 1
+011 Building the Tours Section - Part 2
