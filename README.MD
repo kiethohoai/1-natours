@@ -35,3 +35,4 @@
 011 Building the Tours Section - Part 2
 011 Building the Tours Section - Part 2 Fix Some Bugs
 011 Building the Tours Section - Part 2 Fix Variables
+012 Building the Tours Section - Part 3 Final Section
