@@ -433,6 +433,22 @@ body {
   filter: blur(3px) brightness(80%);
 }
 
+.bg-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  opacity: 0.15;
+  overflow: hidden;
+}
+.bg-video__content {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
 .header {
   position: relative;
   height: 95vh;
@@ -520,7 +536,7 @@ body {
 
 .section-stories {
   padding: 15rem 0;
-  background-color: #f7f7f7;
+  position: relative;
 }
 
 /*# sourceMappingURL=main.css.map */
