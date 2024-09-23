@@ -37,3 +37,4 @@
 011 Building the Tours Section - Part 2 Fix Variables
 012 Building the Tours Section - Part 3 Final Section
 013 Building the Stories Section - Part 1
+014 Building the Stories Section - Part 2
