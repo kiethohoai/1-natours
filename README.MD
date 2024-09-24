@@ -41,3 +41,5 @@
 015 Building the Stories Section - Part 3
 016 Building the Booking Section - Part 1
 017 Building the Booking Section - Part 2
+018 Building the Booking Section - Part 3
+019 Building the Footer
