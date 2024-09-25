@@ -44,3 +44,4 @@
 018 Building the Booking Section - Part 3
 019 Building the Footer
 020 Building the Navigation - Part 1
+021 Building the Navigation - Part 2
