@@ -47,3 +47,4 @@
 021 Building the Navigation - Part 2
 022 Building the Navigation - Part 3
 023 Building a Pure CSS Popup - Part 1
+024 Building a Pure CSS Popup - Part 2
