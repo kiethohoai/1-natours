@@ -52,3 +52,4 @@
 ### 06 Natours Project Advanced Responsive Design Part 3
 
 002 Mobile-First vs Desktop-First and Breakpoints
+003 Let_s Use the Power of Sass Mixins to Write Media Queries
