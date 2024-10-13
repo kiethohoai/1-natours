@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "sass": "sass --watch sass:css",
-    "sv": "lite-server"
+    "sv": "live-server"
   },
   "author": "john",
   "license": "ISC",
   "dependencies": {
-    "lite-server": "^2.6.1",
+    "live-server": "^1.2.2",
     "sass": "^1.79.1"
   }
 }
