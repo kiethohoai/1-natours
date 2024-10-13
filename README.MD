@@ -53,3 +53,4 @@
 
 002 Mobile-First vs Desktop-First and Breakpoints
 003 Let_s Use the Power of Sass Mixins to Write Media Queries
+003 The Power of Sass Mixins to Write Media Queries Ver2
