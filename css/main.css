@@ -1,10 +1,10 @@
-/* //todo $breakpoint argument choices:
-- phone
-- tab-port
-- tab-land
-- big-desktop
+/* MEDIA QUERY MANAGER 
+0 - 600px: Phone
+600 - 900px: Tablet portrait
+900 - 1200px: Tablet landscape
+[1200 - 1800] is where our normal styles apply
+1800px + : Big desktop
 */
-/* order: base + typography > general layout + grid > page layout > components */
 *,
 *::after,
 *::before {
@@ -16,6 +16,11 @@
 html {
   font-size: 62.5%;
 }
+@media (min-width: 112.5em) {
+  html {
+    font-size: 75%;
+  }
+}
 @media (max-width: 75em) {
   html {
     font-size: 56.25%;
@@ -24,11 +29,6 @@ html {
 @media (max-width: 56.25em) {
   html {
     font-size: 50%;
-  }
-}
-@media (min-width: 112.5em) {
-  html {
-    font-size: 75%;
   }
 }
 
@@ -103,8 +103,8 @@ body {
 }
 @media (max-width: 37.5em) {
   .heading-primary--main {
-    font-size: 5rem;
-    letter-spacing: 2.2rem;
+    font-size: 5.5rem;
+    letter-spacing: 1rem;
   }
 }
 .heading-primary--sub {
@@ -119,7 +119,7 @@ body {
 @media (max-width: 37.5em) {
   .heading-primary--sub {
     font-size: 1.6rem;
-    letter-spacing: 0.65rem;
+    letter-spacing: 0.5rem;
   }
 }
 
@@ -142,7 +142,7 @@ body {
 }
 @media (max-width: 37.5em) {
   .heading-secondary {
-    font-size: 2.5rem;
+    font-size: 2.4rem;
   }
 }
 .heading-secondary:hover {
@@ -668,8 +668,15 @@ body {
 }
 @media (max-width: 37.5em) {
   .header {
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 85vh, 0 100%);
-    clip-path: polygon(0 0, 100% 0, 100% 85vh, 0 100%);
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 85vh, 0 100%) !important;
+    clip-path: polygon(0 0, 100% 0, 100% 85vh, 0 100%) !important;
+    height: 90vh !important;
+  }
+}
+@media (max-width: 56.25em) {
+  .header {
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 80vh, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 80vh, 0 100%);
     height: 90vh;
   }
 }
@@ -694,18 +701,17 @@ body {
   margin: 0 auto;
   margin-bottom: 8rem;
 }
+@media (max-width: 56.25em) {
+  .row {
+    max-width: 57rem;
+  }
+}
 .row:not(:last-child) {
   margin-bottom: 8rem;
 }
 @media (max-width: 56.25em) {
   .row:not(:last-child) {
     margin-bottom: 6rem;
-  }
-}
-@media (max-width: 56.25em) {
-  .row {
-    max-width: 50rem;
-    padding: 0 3rem;
   }
 }
 .row::after {
@@ -833,14 +839,14 @@ body {
 }
 @media (max-width: 56.25em) {
   .navigation__button {
-    top: 4.5rem;
-    right: 4.5rem;
+    top: 2rem;
+    right: 3rem;
   }
 }
 @media (max-width: 37.5em) {
   .navigation__button {
-    top: 2.5rem;
-    right: 2.5rem;
+    top: 2rem;
+    right: 4.5rem;
   }
 }
 .navigation__background {
@@ -857,14 +863,14 @@ body {
 }
 @media (max-width: 56.25em) {
   .navigation__background {
-    top: 4.5rem;
-    right: 4.5rem;
+    top: 2rem;
+    right: 3rem;
   }
 }
 @media (max-width: 37.5em) {
   .navigation__background {
-    top: 2.5rem;
-    right: 3.5rem;
+    top: 2rem;
+    right: 4.5rem;
   }
 }
 .navigation__nav {

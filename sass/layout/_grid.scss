@@ -1,8 +1,11 @@
 .row {
   max-width: $grid-width;
   margin: 0 auto;
-  // background: #eee;
   margin-bottom: $gutters-vertical;
+
+  @include respond(tab-port) {
+    max-width: 57rem;
+  }
 
   &:not(:last-child) {
     margin-bottom: $gutters-vertical;
@@ -10,11 +13,6 @@
     @include respond(tab-port) {
       margin-bottom: $gutters-vertical-small;
     }
-  }
-
-  @include respond(tab-port) {
-    max-width: 50rem;
-    padding: 0 3rem;
   }
 
   @include clearfix;

@@ -12,8 +12,6 @@ body {
   backface-visibility: hidden;
   margin-bottom: 6rem;
 
-
-
   &--main {
     display: block;
     font-size: 6rem;
@@ -24,8 +22,8 @@ body {
     animation-timing-function: ease-out;
 
     @include respond(phone) {
-      font-size: 5rem;
-      letter-spacing: 2.2rem;
+      font-size: 5.5rem;
+      letter-spacing: 1rem;
     }
   }
 
@@ -40,7 +38,7 @@ body {
 
     @include respond(phone) {
       font-size: 1.6rem;
-      letter-spacing: 0.65rem;
+      letter-spacing: 0.5rem;
     }
   }
 }
@@ -55,19 +53,19 @@ body {
   background-clip: text;
   color: transparent;
   letter-spacing: 0.2rem;
-  transition: all .2s;
+  transition: all 0.2s;
 
   @include respond(tab-port) {
     font-size: 3rem;
   }
 
   @include respond(phone) {
-    font-size: 2.5rem;
+    font-size: 2.4rem;
   }
 
   &:hover {
     transform: skewY(2deg) skewx(15deg) scale(1.1);
-    text-shadow: .5rem 1rem 2rem rgba($color-black, .2);
+    text-shadow: 0.5rem 1rem 2rem rgba($color-black, 0.2);
   }
 }
 
@@ -83,5 +81,4 @@ body {
   &:not(:last-child) {
     margin-bottom: 3rem;
   }
-
 }

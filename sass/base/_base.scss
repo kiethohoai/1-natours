@@ -7,6 +7,12 @@
 }
 
 html {
+  // width >1800px
+  @include respond(big-desktop) {
+    font-size: 75%; // 1rem = 12px 12/16 = 80%
+  }
+
+  // width [1200px - 1800px]
   font-size: 62.5%; // 1rem = 10px
 
   // width <1200px
@@ -17,11 +23,6 @@ html {
   // width <900px
   @include respond(tab-port) {
     font-size: 50%; // 1rem = 8px 8/16 = 50%
-  }
-
-  // width >1800px
-  @include respond(big-desktop) {
-    font-size: 75%; // 1rem = 12px 12/16 = 80%
   }
 }
 
