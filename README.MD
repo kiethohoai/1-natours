@@ -56,3 +56,4 @@
 003 The Power of Sass Mixins to Write Media Queries Ver2
 004 Writing Media Queries - Base, Typography and Layout
 004 Base, Typography and Layout Responsive Design
+005 Writing Media Queries - Layout, About and Features Sections
