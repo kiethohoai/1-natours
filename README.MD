@@ -57,3 +57,4 @@
 004 Writing Media Queries - Base, Typography and Layout
 004 Base, Typography and Layout Responsive Design
 005 Writing Media Queries - Layout, About and Features Sections
+006 Writing Media Queries - Tours, Stories and Booking Sections
