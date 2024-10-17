@@ -58,3 +58,4 @@
 004 Base, Typography and Layout Responsive Design
 005 Writing Media Queries - Layout, About and Features Sections
 006 Writing Media Queries - Tours, Stories and Booking Sections
+007 An Overview of Responsive Images
