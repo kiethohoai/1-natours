@@ -61,3 +61,4 @@
 007 An Overview of Responsive Images
 008 Responsive Images in HTML - Art Direction and Density Switching
 009 Responsive Images in HTML - Density and Resolution Switching
+010 Responsive Images in CSS
