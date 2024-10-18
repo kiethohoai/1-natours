@@ -62,3 +62,5 @@
 008 Responsive Images in HTML - Art Direction and Density Switching
 009 Responsive Images in HTML - Density and Resolution Switching
 010 Responsive Images in CSS
+011 Testing for Browser Support with @supports
+012 Setting up a Simple Build Process with NPM Scripts
